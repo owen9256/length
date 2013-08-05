@@ -72,6 +72,7 @@ int main()
 {
     freopen("input.txt","r",stdin);
     freopen("output.txt","w",stdout);
+    cout<<"lee@kilee.net\n"<<endl;
     init();
     work();
     fclose(stdout);
